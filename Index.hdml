@@ -1,0 +1,42 @@
+<!--header-->
+The Windtunnel Design
+<DOCTYPE html>
+<html lang="en-US">
+  <head> <title> jayceereF </title> </head>
+  <!--background-->
+  <style>
+  Body{
+  Background-image:url("windtunnel.jpg");
+  background-repeat:no-repeat
+  background-size: cover 
+  background-position: center center;
+  background-attachment;fixed;
+  }</style>
+  <!--meta tag adjust for mobile-->
+  <body>
+  <nav style="text-align: center;">
+  <!-- logo linking to the home page->
+    <a href=https://jay5frmthe3.github.io/><img src="windtunnel.jpg" alt="logo"
+title="windtunnel"style=width:5%;height:5%;></a>
+   <!--header and navigation start-->
+   </ul>
+   <!-- header and navigation end-->
+</nav>
+<!-- Body content star -->
+<h1 style="text-align: center;color:black;font-size;50px;">Windtunnel</h1>
+<!--main text and information-->
+<p style="text-align:center:
+    color:rgb(189, 187, 187);
+    font-size:20px;">
+ </p>
+ <!--body content ends-->
+ </body>
+ <footer>
+ <!--footer start-->
+ <ul style="text-align: ceneter;">
+ <a href="malito:jay050606@icloud.com">Email</a>
+ <a href="https://github.com/Jay5frmthe3/Jay5frmthe3.GitHub.io-/new/main"> resume </a>
+ </ul>
+ <!-- footer end-->
+ </footer>
+</html>
